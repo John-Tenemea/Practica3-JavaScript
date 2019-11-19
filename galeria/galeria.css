@@ -1,0 +1,16 @@
+
+body {
+   
+          /*color de la hoja*/
+          background-color: rgba(36, 36, 17, 0.911);
+          width: 70%;
+          /*ubica a la imagen a un lado del texto*/
+          float: left;
+          /*establece los margenes del texto*/
+          margin: 2% 37% ;}
+.boton input{
+    
+    float: left;
+    /*establece los margenes del texto*/
+    margin: 2% 4%  ;
+}
